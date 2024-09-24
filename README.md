@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="vitor20101983@gmail.com" target="_blank">
+  <a href="mailto:vitor20101983@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="[16999870257](https://web.whatsapp.com/send?phone=5516999870257&text=)" target="_blank">
