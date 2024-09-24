@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- **Idade**: 26 anos<br>- **Profissão**: Analista de Monitoramento Jr<br>- **Objetivo**: Me tornar um Desenvolvedor</p>
+<p align="left">Idade: 26 anos<br>Profissão: Analista de Monitoramento Jr<br>Objetivo: Me tornar um Desenvolvedor</p>
 
 ###
 
